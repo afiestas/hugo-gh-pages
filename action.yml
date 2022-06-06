@@ -39,7 +39,7 @@ inputs:
 
 runs:
   using: 'docker'
-  image: 'docker://ghcr.io/chabad360/hugo-gh-pages'
+  image: 'docker://ghcr.io/afiestas/hugo-gh-pages'
 #   image: 'Dockerfile'
 
 branding:
